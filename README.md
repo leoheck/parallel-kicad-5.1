@@ -1,6 +1,6 @@
-# parallel-kicad-5.1
+# Parallel Kicad 5.1
 
-Simple way to keep Kicad 5.1 working while having the current v6 working.
+This is a simple way to keep Kicad 5.1 working while having the current v6 working. This works on debian-like OS like Ubuntu. So, having apt-get is more than enough. Also, this can be used to install software from apt without needing root permissions.
 
 # Procedure
 
